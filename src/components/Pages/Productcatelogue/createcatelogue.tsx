@@ -67,7 +67,7 @@ function CreateCatalogue() {
 
                                                 <div className="col-md-12">
                                                     <div className="mb-3">
-                                                        <label className="form-label" htmlFor=" ">Product Description<span className="mand_error">*</span>  </label>
+                                                        <label className="form-label" htmlFor=" ">Product Descriptions<span className="mand_error">*</span>  </label>
 
                                                         <textarea className="form-control" id=" " placeholder=" " rows={5}></textarea>
                                                     </div>
