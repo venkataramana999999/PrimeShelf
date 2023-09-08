@@ -1,0 +1,11 @@
+/* Styles to show the sidebar */
+.page-wrapper.compact-wrapper.show-sidebar {
+    /* margin-left: 50px; */
+     /* Adjust the value based on your sidebar width */
+}
+
+/* Styles to hide the sidebar */
+.page-wrapper.compact-wrapper.hide-sidebar {
+    margin-left: -500px; 
+    /* Hide the sidebar by setting margin-left to 0 */
+}
