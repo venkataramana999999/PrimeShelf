@@ -200,7 +200,7 @@ function CreateCatalogue() {
                                                         </div>
                                                         <div className="col-md-3">
                                                             <div className="mb-3" style={{ marginLeft: '20px' }}>
-                                                                <label className="form-label" htmlFor="attribute-value">Value </label>
+                                                                <label className="form-label" htmlFor="attribute-value">Values </label>
                                                                 <input className="form-control" id="attribute-value" type="text" placeholder=" " value={stateValue} onChange={onChangeValue} />
                                                             </div>
                                                         </div>
