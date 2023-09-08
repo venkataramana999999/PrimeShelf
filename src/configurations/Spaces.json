@@ -1,0 +1,43 @@
+[
+    {
+        "id":"1",
+        "name": "Gondala" 
+    },
+    {
+        "id":"2",
+        "name": "Side Rack" 
+    },
+    {
+        "id":"3",
+        "name": "Payment Counters" 
+    },
+    {
+        "id":"1",
+        "name": "Fridge"  
+    },
+    {
+        "id":"1",
+        "name": "Back Rack"  
+    },
+    {
+        "id":"1",
+        "name": "Left Wall Rack "  
+    },
+    {
+        "id":"1",
+        "name": "Right Wall Rack "  
+    },
+    {
+        "id":"1",
+        "name": "Handy Cam"  
+    },
+    {
+        "id":"1",
+        "name": "FCU"  
+    }, 
+    {
+        "id":"1",
+        "name": "Vegetables"  
+    } 
+
+]
