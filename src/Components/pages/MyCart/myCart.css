@@ -1,0 +1,57 @@
+.table th{
+    font-size:12px;
+    vertical-align:middle;
+        border: none;
+}
+.table td{
+    font-size:12px;
+    vertical-align:middle;
+        border: none;
+}
+ .table td .table td{
+     font-size:12px;
+    font-weight:400;
+    vertical-align:middle;
+    color:#000;
+ }
+ .my_btntt{
+     width: 56px !important;
+       text-align: center !important;
+ }
+ 
+ 
+ .bg_camp1{
+     background-color:#e7e5fd;
+     border-radius:3px;
+     font-size:12px;
+     text-align:right;
+     padding:0px 10px;
+ }
+ 
+ .bg_camp2{
+     background-color:#e7e5fd;
+     border-radius:3px;
+     font-size:12px;
+     text-align:right;
+     padding:0px 10px;
+     margin-left:5px;
+ }
+ 
+ .btn_view{
+     background-color:#7889f3;
+         padding: 10px 12px 10px 10px;
+     border-radius:3px;
+     font-size:12px;
+     margin-left:5px;
+     color:#8c28a8;
+ }
+ 
+ .btn_status1{
+     background-color:#e17e69;
+         padding: 10px 12px 10px 10px;
+     border-radius:3px;
+     font-size:12px;
+     margin-left:5px;
+     color:#FFF;
+ }
+ 

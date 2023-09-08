@@ -1,0 +1,15 @@
+/* MyTable.css */
+
+.custom-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .custom-table th {
+    border: 1px solid #ccc; /* Add borders to the table headers */
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Other styles for table elements... */
+  

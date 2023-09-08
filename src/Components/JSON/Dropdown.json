@@ -1,0 +1,45 @@
+ [
+    {
+        "id": 1,
+        "name": "Any"
+    },
+    {
+        "id": 2,
+        "name": "Skin Care"
+    },
+    {
+        "id": 3,
+        "name": "Choclates"
+    },
+    {
+        "id": 4,
+        "name": "Perfumes"
+    },
+    {
+        "id": 5,
+        "name": "Pooja Items"
+    }, {
+        "id": 6,
+        "name": "Confectionary"
+    }, {
+        "id": 7,
+        "name": "Toiletries"
+    }, {
+        "id": 8,
+        "name": "Utensils"
+    }, {
+        "id": 9,
+        "name": "Food Grains"
+    },
+    {
+        "id": 10,
+        "name": "Home Decor Items"
+    },
+    {
+        "id": 11,
+        "name": "Fast Food Items"
+    }
+
+]
+
+

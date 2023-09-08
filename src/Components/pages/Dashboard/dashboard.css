@@ -1,0 +1,20 @@
+.store_txt{
+    font-size:16px;
+    font-weight:500;
+}
+.sml_txt{
+    font-size:11px;
+}
+
+/* dashboard.css */
+.dashboard-expanded {
+    margin-left: 0px;
+     /* Adjust margin when sidebar is hidden */
+    transition: margin-left 0.5s ease-in-out;
+}
+
+.dashboard-collapsed {
+    margin-left: -280px; 
+    /* Set appropriate value when sidebar is visible */
+    transition: margin-left 0.5s ease-in-out;
+}
