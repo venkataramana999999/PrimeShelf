@@ -114,7 +114,7 @@ const ExploreSpace: React.FC<ExploreSpaceProps> = () => {
             console.log("Form is valid, submitting...");
             // Add your submission logic here
         } else {
-            console.log("Form is not valid, please correct errors.");
+            console.log("Form is not valid, please correct errorss.");
         }
     };
 
