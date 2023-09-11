@@ -54,7 +54,7 @@ const Header: React.FC<HeaderProps> = ({
                             </div>
                             <div className="toggle-sidebar" onClick={toggleSidebar}>
                                 <svg
-                                    width="24"
+                                    width="25"
                                     height="24"
                                     viewBox="0 0 24 24"
                                     fill="none"
