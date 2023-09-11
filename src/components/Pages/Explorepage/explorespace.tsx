@@ -186,7 +186,7 @@ const ExploreSpace: React.FC<ExploreSpaceProps> = () => {
             format: (_row: any, rowIndex: number) => rowIndex + 1,
         },
         {
-            name: 'Store Names',
+            name: 'Store Name',
             selector: 'store_name',
             sortable: true,
         },
