@@ -4,14 +4,14 @@ import './App.css';
 
 
 // import MainPage from "./components/body/MainPage";
-import ExploreSpace from "./components/Pages/Explorepage/explorespace";
-import Dashboard from "./components/Pages/Dashboard/dashboard";
-import MyCart from "./components/Pages/MyCart/myCart";
-import MyBooking from "./components/Pages/MyBookings/mybookngs";
-import MyCampaign from "./components/Pages/MyCampaingn/mycampaingn";
-import CreateCampaign from "./components/Pages/MyCampaingn/createcampaingn";
-import ProductCatelouge from "./components/Pages/Productcatelogue/productcatelogue";
-import StoreDetails from "./components/Pages/Explorepage/storedetails";
+import ExploreSpace from "./Components/Pages/Explorepage/explorespace";
+import Dashboard from "./Components/Pages/Dashboard/dashboard";
+import MyCart from "./Components/Pages/MyCart/myCart";
+import MyBooking from "./Components/Pages/MyBookings/mybookngs";
+import MyCampaign from "./Components/Pages/MyCampaingn/mycampaingn";
+import CreateCampaign from "./Components/Pages/MyCampaingn/createcampaingn";
+import ProductCatelouge from "./Components/Pages/Productcatelogue/productcatelogue";
+import StoreDetails from "./Components/Pages/Explorepage/storedetails";
 
 function App() {
 
