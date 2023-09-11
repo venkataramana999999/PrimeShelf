@@ -3,7 +3,7 @@ import MainPage1 from "../../body/Mainpage1";
 import { useNavigate } from "react-router-dom";
 //import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
 import DataTable from 'react-data-table-component';
-import Header from "../../Common/Header/header";
+import Header from "../../common/Header/header";
 import Slider from "@mui/material/Slider";
 
 interface ExploreSpaceProps { }
